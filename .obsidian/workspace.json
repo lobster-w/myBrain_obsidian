@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_inbox/PARA 个人知识管理方法.md",
+                "file": "02_areas/电机控制/弱磁控制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PARA 个人知识管理方法"
-            }
-          },
-          {
-            "id": "f0f35a0a1dd55a42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "弱磁控制"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#PMSM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,10 +183,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "f0f35a0a1dd55a42",
+  "active": "4e7cabf94fdb0276",
   "lastOpenFiles": [
-    "00_inbox/AI增强个人工程知识库.md",
+    "00_inbox/PARA 个人知识管理方法.md",
+    "02_areas/电机控制/弱磁控制.md",
+    "02_areas/电机控制",
+    "03_resources/README.md",
     "README.md",
+    "00_inbox/AI增强个人工程知识库.md",
     "00_inbox/第一篇：V4L2/Part3：V4L2编程.md",
     "00_inbox/第一篇：V4L2/Part2：Linux Camera Framework.md",
     "00_inbox/第一篇：V4L2/Part1：Linux设备基础.md",
@@ -225,15 +214,12 @@
     "00_inbox/第二篇：RV1106 AI视觉开发实战/第00章：RV1106 AI视觉开发实战——从RKMPI到RKNN再到YOLO.md",
     "00_inbox/第二篇：RV1106 AI视觉开发实战",
     "00_inbox/RV 1106",
-    "00_inbox/PARA 个人知识管理方法.md",
     "欢迎.md",
     "05_moc",
     "未命名.base",
-    "00_inbox/AME.md",
     "04_archives",
     "03_resources",
     "02_areas",
-    "01_projects",
-    "00_inbox"
+    "01_projects"
   ]
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b542487afb253469",
+        "id": "91b473a4c9d80d7b",
         "type": "tabs",
         "children": [
           {
-            "id": "1b3a664fb168145e",
+            "id": "d659fee6358d6610",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,10 +183,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "4e7cabf94fdb0276",
+  "active": "d659fee6358d6610",
   "lastOpenFiles": [
-    "00_inbox/PARA 个人知识管理方法.md",
     "02_areas/电机控制/弱磁控制.md",
+    "00_inbox/PARA 个人知识管理方法.md",
     "02_areas/电机控制",
     "03_resources/README.md",
     "README.md",
